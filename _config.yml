@@ -223,11 +223,11 @@ disqus:
     username: zhangtiezhi
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: ityouknow
+    owner: zhangtiezhi
     repo: blog-comments
     oauth:
-        client_id: 61bfc53d957e74e78f8f
-        client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+        client_id: 848f22830b1ff83d8a03
+        client_secret: 9c633a2ee2d4e454ae7a77f12ae2c3f6949eb9a4
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: zhangtiezhi
