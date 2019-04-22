@@ -13,7 +13,7 @@ email: 964999525@qq.com
 description: 技术分享。
 keywords: Spring,Spring Boot,Spring Cloud,开发者,IT技术博客,Java,
 encoding: "utf-8"
-favicon: favicon.png
+favicon: favicon.ico 
 
 repository: zhangtiezhi/zhangtiezhi.github.io
 github_url: https://github.com/zhangtiezhi
