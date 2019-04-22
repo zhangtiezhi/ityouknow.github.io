@@ -220,7 +220,7 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: ityouknow
+    username: zhangtiezhi
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: ityouknow
@@ -230,9 +230,9 @@ gitment:
         client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: ityouknow
+    owner: zhangtiezhi
     repo: blog-comments
-    clientID: 61bfc53d957e74e78f8f
-    clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+    clientID: 848f22830b1ff83d8a03
+    clientSecret: 9c633a2ee2d4e454ae7a77f12ae2c3f6949eb9a4
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
