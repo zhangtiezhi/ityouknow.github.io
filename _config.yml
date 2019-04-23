@@ -56,25 +56,6 @@ paginate_path: 'page:num'
 # Navigation. top menu list
 menus:
 
-  -
-    href: /zsxq.html
-    label: 星球
-    target: _self
-
-  -
-    href: /gitchat.html
-    label: Chat
-    target: _self
-
-  -
-    href: /geektime.html
-    label: 极客
-    target: _self
-
-  -
-    href: /life.html
-    label: 故事
-    target: _self
 
   -
     href: /arch.html
@@ -183,10 +164,6 @@ classes:
     name: 架构师之路
     describe: 一个架构师的自我修养
 
-  -
-    href: /java.html
-    name: Java 系列文章
-    describe: Java 之根基，Java 程序员必学
 
 
 # ---------------- #
