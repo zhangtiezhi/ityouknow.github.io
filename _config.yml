@@ -104,10 +104,6 @@ labels:
     label: IT 
     target: _blank
 
-  -
-    href: /python.html
-    label: Python  
-    target: _blank
 
 
 # selected articles
