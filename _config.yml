@@ -156,14 +156,14 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: zhangtiezhi
-    repo: zhagntiezhi.github.io
+    repo: zhangtiezhi.github.io
     oauth:
         client_id: 848f22830b1ff83d8a03
         client_secret: 9c633a2ee2d4e454ae7a77f12ae2c3f6949eb9a4
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: zhangtiezhi
-    repo: zhagntiezhi.github.io
+    repo: zhangtiezhi.github.io
     clientID: 848f22830b1ff83d8a03
     clientSecret: 9c633a2ee2d4e454ae7a77f12ae2c3f6949eb9a4
 # 在使用其它评论组件时可点击显示 Disqus
