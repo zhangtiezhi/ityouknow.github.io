@@ -91,22 +91,6 @@ navs:
         subLabel: Spring Cloud
 
   -
-    href: /spring-cloud.html
-    label: Spring Cloud
-    target: _self
-
-  -
-    
-    href: http://www.justdojava.com
-    label: Java
-    target: _blank
-
-  -
-    href: /archives.html
-    label: Archives
-    target: _self
-
-  -
     href: /about.html
     label: About
     target: _self
@@ -114,31 +98,6 @@ navs:
 
 # labels. my blog key words
 labels:
-
-  -
-    href: /payment.html
-    label: 支付     
-    target: _self
-
-  -
-    href: /fastdfs.html
-    label: FastDFS
-    target: _blank
-
-  -
-    href: /mongodb.html
-    label: MongoDB
-    target: _blank
-
-  -
-    href: /docker.html
-    label: Docker
-    target: _blank
-
-  -
-    href: /open-source.html
-    label: Code  
-    target: _blank
 
   -
     href: /it.html
